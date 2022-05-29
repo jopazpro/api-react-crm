@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jose Actualizado",
+      "empresa": "Codigo con Jose",
+      "email": "correo@correo.com",
+      "telefono": "12345678",
+      "notas": "Nuevo cliente redes",
+      "id": 3
+    },
+    {
+      "nombre": "Jose",
+      "empresa": "Codigo con Jose",
+      "email": "correo@correo.com",
+      "telefono": "12345678",
+      "notas": "Nuevo cliente redes",
+      "id": 4
+    },
+    {
+      "nombre": "Luis",
+      "empresa": "Diseña con Lucho",
+      "email": "lucho@lucho.com",
+      "telefono": "87654987",
+      "notas": "Diseños exclusivos",
+      "id": 5
+    },
+    {
+      "nombre": "Paula",
+      "empresa": "Diseña con Paula",
+      "email": "paula@paula.com",
+      "telefono": "098765432",
+      "notas": "Nuevos diseños de Paula 2022",
+      "id": 6
+    }
+  ]
+}
